@@ -3,7 +3,6 @@
 platforms
 phonegap/www/**
 phonegap/.cordova/config.json
-phonegap/test
 
 # Compiled source #
 ###################
